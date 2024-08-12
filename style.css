@@ -1,0 +1,46 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: #ffb8e5;
+}
+
+#red {
+  color:#e85e5e;
+}
+
+#orange{
+  color:#d9b77d;
+}
+
+.color{
+  color:#bf5a64;
+}
+
+#size{
+  size: 80%;
+}
+
+#size2{
+  size:30%
+}
+
+#size2{
+  size:30%
+}
+
+#size2{
+  size:30%
+} 
+
+#gru {
+  width:80%;
+}
+.min{
+  width:30vw;
+}
+#kingbob{
+  margin-left:3vw;
+}
